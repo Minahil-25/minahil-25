@@ -79,7 +79,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/minail-25/minail-25/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/minahil-25/minahil-25/output/snake.svg" alt="Snake animation" />
 
 
 ###
